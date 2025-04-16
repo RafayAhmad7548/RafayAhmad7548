@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafayAhmad7548
-- 👀 I’m a Programmer specializing in Flutter and Java, I also know Python, C++, HTML, CSS and JS. I also am a huge linux enthusiast, and run a linux home server myself.
-- 🌱 I’m currently mastering my skills in flutter and java, and also I am in my 2nd year of bachelor's of Data Science at FAST-NUCES, Islamabad.
+- 👀 I’m a Programmer specializing in Flutter, React Native & Python, I also know Rust, Java, C++, JS. I also am a huge linux enthusiast, and run a linux home server myself.
+- 🌱 I’m currently mastering my skills in Flutter, RN and Rust, and also I am in my 2nd year of bachelor's of Data Science at FAST-NUCES, Islamabad.
 -  💞️ I’m looking to collaborate on Open Source Projects and Booost my Learning
 
 <!---
